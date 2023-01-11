@@ -1,5 +1,5 @@
 # Alex Brown
-**`Data Scientist`**
+**`Aspiring Data Scientist`**
 
 <!--
 **TastyBrownie/TastyBrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
