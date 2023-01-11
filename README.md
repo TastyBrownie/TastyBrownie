@@ -1,5 +1,7 @@
-# Alex Brown
+# 🧗‍♂️Alex Brown
 **`Aspiring Data Scientist`**
+
+Welcome to my GitHub page! I'm a 4<sup>th</sup> year Data Science major at SFU. 
 
 <!--
 **TastyBrownie/TastyBrownie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
