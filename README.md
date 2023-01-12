@@ -24,7 +24,7 @@ Hobbies:
   * Hiking
   * Puzzles
 
-I'm an avid boulderer and I'm also very interested in how data science can be used to study and improving climbing performance. I love the work the people at [Lattice](https://latticetraining.com/) have done, and would be very interested on lending my skills to similar projects. If you know of any that are looking for coders/data scientists let me know.
+I'm an avid boulderer and I'm also very interested in how data science can be used to study and improve climbing performance. I love the work the people at [Lattice](https://latticetraining.com/) have done, and would be very interested on lending my skills to similar projects. If you know of any that are looking for coders/data scientists let me know.
 
 
 
