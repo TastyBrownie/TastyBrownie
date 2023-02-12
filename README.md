@@ -1,7 +1,7 @@
 # Alex Brown
 **`Aspiring Data Scientist`**
 
-Welcome to my GitHub page! I'm a 4<sup>th</sup> year Data Science major at SFU. I'm currently looking for a Summer co-op position. If you're an employer who has landed here feel free to peruse my projects. A lot of my university projects and personal work were done off of GitHub so this is by no means a complete reflection of my work. That being said the two projects showcased in the links below do have their repositories on here, so check that out.
+Welcome to my GitHub page! I'm a 4<sup>th</sup> year Data Science major at SFU. I'm currently looking for a Summer co-op position. If you're an employer who has landed here feel free to peruse my projects. A lot of my university projects and personal work were done off of GitHub so this is by no means a complete reflection of my work. That being the two projects showcased in the links below do have their repositories on here, so check that out.
 
 [Vancouver Bike Thefts](https://gdxbam-alex-brown.shinyapps.io/vancouver_crime_dashboard/) <br>
 [Digit Recognition Project Website](https://mnist-digit-recognition-webapp.herokuapp.com/) <br>
